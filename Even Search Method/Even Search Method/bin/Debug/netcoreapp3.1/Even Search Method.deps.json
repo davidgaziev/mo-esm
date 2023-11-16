@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Even Search Method/1.0.0": {
+        "dependencies": {
+          "aziretParser": "1.0.0.0",
+          "Extreme.Numerics.Net40": "5.1.14287.0",
+          "info.lundin.math": "1.2.6.0",
+          "Microsoft.Office.Interop.Excel": "15.0.0.0",
+          "OFFICE": "15.0.0.0"
+        },
+        "runtime": {
+          "Even Search Method.dll": {}
+        }
+      },
+      "aziretParser/1.0.0.0": {
+        "runtime": {
+          "aziretParser.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Extreme.Numerics.Net40/5.1.14287.0": {
+        "runtime": {
+          "Extreme.Numerics.Net40.dll": {
+            "assemblyVersion": "5.1.14287.0",
+            "fileVersion": "5.1.16195.0"
+          }
+        }
+      },
+      "info.lundin.math/1.2.6.0": {
+        "runtime": {
+          "info.lundin.math.dll": {
+            "assemblyVersion": "1.2.6.0",
+            "fileVersion": "1.2.6.0"
+          }
+        }
+      },
+      "Microsoft.Office.Interop.Excel/15.0.0.0": {
+        "runtime": {
+          "Microsoft.Office.Interop.Excel.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4569.1506"
+          }
+        }
+      },
+      "OFFICE/15.0.0.0": {
+        "runtime": {
+          "OFFICE.DLL": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4613.1000"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Even Search Method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "aziretParser/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Extreme.Numerics.Net40/5.1.14287.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "info.lundin.math/1.2.6.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Office.Interop.Excel/15.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OFFICE/15.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

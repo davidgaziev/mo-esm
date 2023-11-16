@@ -1,0 +1,87 @@
+D:\Учеба\3-курс\1-семестр лабы\Методы опти-ии\ПРоги\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.csprojAssemblyReference.cache
+D:\Учеба\3-курс\1-семестр лабы\Методы опти-ии\ПРоги\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even_Search_Method.Form1.resources
+D:\Учеба\3-курс\1-семестр лабы\Методы опти-ии\ПРоги\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.csproj.GenerateResource.cache
+D:\Учеба\3-курс\1-семестр лабы\Методы опти-ии\ПРоги\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.AssemblyInfoInputs.cache
+D:\Учеба\3-курс\1-семестр лабы\Методы опти-ии\ПРоги\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.AssemblyInfo.cs
+D:\Учеба\3-курс\1-семестр лабы\Методы опти-ии\ПРоги\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.csproj.CoreCompileInputs.cache
+D:\Учеба\3-курс\1-семестр лабы\Методы опти-ии\ПРоги\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.exe
+D:\Учеба\3-курс\1-семестр лабы\Методы опти-ии\ПРоги\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.deps.json
+D:\Учеба\3-курс\1-семестр лабы\Методы опти-ии\ПРоги\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.runtimeconfig.json
+D:\Учеба\3-курс\1-семестр лабы\Методы опти-ии\ПРоги\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.runtimeconfig.dev.json
+D:\Учеба\3-курс\1-семестр лабы\Методы опти-ии\ПРоги\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.dll
+D:\Учеба\3-курс\1-семестр лабы\Методы опти-ии\ПРоги\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.pdb
+D:\Учеба\3-курс\1-семестр лабы\Методы опти-ии\ПРоги\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.dll
+D:\Учеба\3-курс\1-семестр лабы\Методы опти-ии\ПРоги\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.pdb
+D:\Учеба\3-курс\1-семестр лабы\Методы опти-ии\ПРоги\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.genruntimeconfig.cache
+D:\Учеба\3-курс\1-семестр лабы\Методы опти-ии\ПРоги\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.dll.config
+D:\Учеба\3-курс\1-семестр лабы\Методы опти-ии\ПРоги\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\info.lundin.math.dll
+D:\Учеба\3-курс\1-семестр лабы\Методы опти-ии\ПРоги\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.csproj.CopyComplete
+D:\Учеба\3-курс\1-семестр лабы\Методы опти-ии\ПРоги\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Excel.dll
+D:\Учеба\3-курс\1-семестр лабы\Методы опти-ии\ПРоги\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\OFFICE.DLL
+D:\Учеба\3-курс\1-семестр лабы\Методы опти-ии\ПРоги\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even_Search_Method.Properties.Resources.resources
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.exe
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.dll.config
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.deps.json
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.runtimeconfig.json
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.runtimeconfig.dev.json
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.dll
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.pdb
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\info.lundin.math.dll
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Excel.dll
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\OFFICE.DLL
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.csproj.AssemblyReference.cache
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even_Search_Method.Form1.resources
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even_Search_Method.Properties.Resources.resources
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.csproj.GenerateResource.cache
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.AssemblyInfoInputs.cache
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.AssemblyInfo.cs
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.csproj.CoreCompileInputs.cache
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.csproj.CopyComplete
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.dll
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.pdb
+C:\Users\shernaz\Desktop\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.genruntimeconfig.cache
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.exe
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.dll.config
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.deps.json
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.runtimeconfig.json
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.runtimeconfig.dev.json
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.dll
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.pdb
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\info.lundin.math.dll
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Excel.dll
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\OFFICE.DLL
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.csproj.AssemblyReference.cache
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even_Search_Method.Form1.resources
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even_Search_Method.Properties.Resources.resources
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.csproj.GenerateResource.cache
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.AssemblyInfoInputs.cache
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.AssemblyInfo.cs
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.csproj.CoreCompileInputs.cache
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.csproj.CopyComplete
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.dll
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.pdb
+C:\Users\shernaz\Desktop\3-курс\Методы оптимизации (Иосиф Григоревич)\2-модуль\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.genruntimeconfig.cache
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.exe
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.dll.config
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.deps.json
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.runtimeconfig.json
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.runtimeconfig.dev.json
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.dll
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Even Search Method.pdb
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\info.lundin.math.dll
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Excel.dll
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\bin\Debug\netcoreapp3.1\OFFICE.DLL
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.csproj.AssemblyReference.cache
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even_Search_Method.Form1.resources
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even_Search_Method.Properties.Resources.resources
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.csproj.GenerateResource.cache
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.AssemblyInfoInputs.cache
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.AssemblyInfo.cs
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.csproj.CoreCompileInputs.cache
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.csproj.CopyComplete
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.dll
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.pdb
+D:\labs\3 year\1 semester\МО\practice\programs\Even_Search_Method\Even Search Method\Even Search Method\obj\Debug\netcoreapp3.1\Even Search Method.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net40;netstandard2.0</TargetFrameworks>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+    <DelaySign>false</DelaySign>
+    <AssemblyVersion>1.2.6.0</AssemblyVersion>
+    <FileVersion>1.2.6.0</FileVersion>
+    <Version>1.2.6</Version>
+    <PackageReleaseNotes>Fixed issue with scientific exponent notation
+<!--
+1.2.5
+Use of operator keywords as part of variable names.
+Net standard support.
+Fixed issue with serialization.
+Fixed issue with not (!) operator. --></PackageReleaseNotes>
+    <RootNamespace>info.lundin.math</RootNamespace>
+    <Description>Math expression parser, evaluates a string mathematical expression and returns a double value.</Description>
+    <PackageLicenseUrl>https://opensource.org/licenses/ms-pl.html</PackageLicenseUrl>
+    <PackageProjectUrl>http://lundin.live/mathparser</PackageProjectUrl>
+    <Copyright>Copyright 2019 Patrik Lundin</Copyright>
+    <PackageTags>Math Expression Parser</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Patrik Lundin</Authors>
+    <Company>lundin.live</Company>
+    <PackageId>info.lundin.math.dll</PackageId>
+  </PropertyGroup>
+
+</Project>
