@@ -5,6 +5,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>Even_Search_Method</RootNamespace>
     <UseWindowsForms>true</UseWindowsForms>
+    <LangVersion>10</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>

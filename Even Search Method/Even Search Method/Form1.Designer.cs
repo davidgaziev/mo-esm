@@ -96,7 +96,7 @@ namespace Even_Search_Method
             this.textBox1.Size = new System.Drawing.Size(100, 27);
             this.textBox1.TabIndex = 1;
             this.textBox1.Text = "-0,001";
-            this.toolTip1.SetToolTip(this.textBox1, "Начальная точка поиска");
+            this.toolTip1.SetToolTip(this.textBox1, "Начальная точка поиска");           
             // 
             // label1
             // 
@@ -131,6 +131,7 @@ namespace Even_Search_Method
             this.textBox2.TabIndex = 4;
             this.textBox2.Text = "1E-5";
             this.toolTip1.SetToolTip(this.textBox2, "Желаемое значение допустимой ошибки решения");
+            this.textBox2.GotFocus += textBox_DefaultBg;
             // 
             // label3
             // 
@@ -154,6 +155,7 @@ namespace Even_Search_Method
             this.textBox3.TabIndex = 6;
             this.textBox3.Text = "1000";
             this.toolTip1.SetToolTip(this.textBox3, "Предел количества итераций для поиска");
+            this.textBox3.GotFocus += textBox_DefaultBg;
             // 
             // label4
             // 
@@ -281,7 +283,8 @@ namespace Even_Search_Method
             this.textBox7.Size = new System.Drawing.Size(100, 27);
             this.textBox7.TabIndex = 17;
             this.textBox7.Text = "0,00001";
-            this.toolTip1.SetToolTip(this.textBox7, "Step size of the ESM");
+            this.toolTip1.SetToolTip(this.textBox7, "Шаг поиска");
+            this.textBox7.GotFocus += textBox_DefaultBg;
             // 
             // button2
             // 
@@ -469,6 +472,7 @@ namespace Even_Search_Method
             this.textBox9.Size = new System.Drawing.Size(100, 27);
             this.textBox9.TabIndex = 19;
             this.textBox9.Text = "100";
+            this.textBox9.GotFocus += textBox_DefaultBg;
             // 
             // label13
             // 
